@@ -47,6 +47,7 @@
     <h1>Prueba CI#3: Automatizacion del webhook</h1>
     <h1>Prueba CI#4: Automatizacion del compose</h1>
     <h1>Prueba CI#5: Prueba en el pipeline</h1>
+    <h1>Prueba CI#6: Prueba en el pipeline</h1>
 <%--    <c:forEach items="${allRooms}" var="room">--%>
 <%--        <div class="habitacion" >--%>
 <%--            asdlkajskl--%>
