@@ -44,6 +44,7 @@
 <main>
     <h1>Prueba CI#1</h1>
     <h1>Prueba CI#2: Configurar Jenkins CI</h1>
+    <h1>Prueba CI#3: Automatizacion del webhook</h1>
 <%--    <c:forEach items="${allRooms}" var="room">--%>
 <%--        <div class="habitacion" >--%>
 <%--            asdlkajskl--%>
